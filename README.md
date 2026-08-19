@@ -34,7 +34,7 @@
 
 ### 🧩 LeetCode
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=catppuccinMocha" />
+  <img src="https://leetcard.jacoblin.cool/MalCodes?theme=catppuccinMocha" />
 </p>
 
 ---
