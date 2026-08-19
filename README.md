@@ -31,6 +31,14 @@
 </p>
 
 ---
+
+### 🧩 LeetCode
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma" />
+</p>
+
+---
+
 <p align="center">
   ✦ calm code · clean builds · cozy vibes ✦
 </p>
