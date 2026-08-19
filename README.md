@@ -34,7 +34,7 @@
 
 ### 🧩 LeetCode
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/UNnSNEN8lS?theme=dark&font=Karma" />
+  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=catppuccinMocha" />
 </p>
 
 ---
